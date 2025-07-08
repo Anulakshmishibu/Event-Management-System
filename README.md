@@ -1,1 +1,1 @@
-# Event-Management-System
+Event Management and Booking System is a user-friendly platform that connects admins, event coordinators, and users to manage event services like decorations and food. Admins can monitor users, bookings, payments, and complaints. Coordinators manage their services, respond to bookings, and interact with users. Users can explore services, book them, and communicate directly. The system streamlines event planning with real-time updates and smooth coordination across all modules.
